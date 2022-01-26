@@ -27,6 +27,13 @@
         "url": "https://www.mdpi.com/2223-7747/10/12/2681/htm"
       },
       "note": "See fig 3"
+    },
+    {
+      "pub": {
+        "title": "Petabase-scale sequence alignment catalyses viral discovery",
+        "doi": "https://doi.org/10.1038/s41586-021-04332-2"
+      },
+      "url": "https://www.serratus.io/jbrowse?bam=ERR2756788"
     }
   ]
 }

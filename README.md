@@ -1,11 +1,6 @@
 # awesome-jbrowse2
-
-
-- Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing
- https://zhailab-sustech.github.io/jbrowse2/ https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02543-4 
- 
-- A genome assembly of the Atlantic chub mackerel (Scomber colias): a valuable teleost fishing resource http://portugalfishomics.ciimar.up.pt/app/scombercolias/ 
- https://www.biorxiv.org/content/10.1101/2021.11.19.468211v1
- 
-- Transposons Hidden in Arabidopsis thaliana Genome Assembly Gaps and Mobilization of Non-Autonomous LTR Retrotransposons Unravelled by Nanotei Pipeline
- https://www.mdpi.com/2223-7747/10/12/2681/htm (see figure 3)
+- Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02543-4 https://zhailab-sustech.github.io/jbrowse2/
+- The draft genome sequence of Japanese rhinoceros beetle Trypoxylus dichotomus https://www.biorxiv.org/content/10.1101/2022.01.10.475740v1.full.pdf http://www.insect.nibb.info/trydi/jb/
+- A genome assembly of the Atlantic chub mackerel (Scomber colias): a valuable teleost fishing resource https://www.biorxiv.org/content/10.1101/2021.11.19.468211v1 http://portugalfishomics.ciimar.up.pt/app/scombercolias/
+- Transposons Hidden in Arabidopsis thaliana Genome Assembly Gaps and Mobilization of Non-Autonomous LTR Retrotransposons Unravelled by Nanotei Pipeline https://www.mdpi.com/2223-7747/10/12/2681/htm 
+- Petabase-scale sequence alignment catalyses viral discovery  https://www.serratus.io/jbrowse?bam=ERR2756788
