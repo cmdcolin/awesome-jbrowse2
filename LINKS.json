@@ -34,6 +34,13 @@
         "doi": "https://doi.org/10.1038/s41586-021-04332-2"
       },
       "url": "https://www.serratus.io/jbrowse?bam=ERR2756788"
+    },
+    {
+      "pub": {
+        "title": "TCMPG: an integrative database for traditional Chinese medicine plant genome",
+        "doi": "https://doi.org/10.1093/hr/uhac060"
+      },
+      "url": "http://cbcb.cdutcm.edu.cn/TCMPG/"
     }
   ]
 }
