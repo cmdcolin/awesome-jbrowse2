@@ -6,3 +6,5 @@
 - Petabase-scale sequence alignment catalyses viral discovery https://doi.org/10.1038/s41586-021-04332-2 https://www.serratus.io/jbrowse?bam=ERR2756788
 - TCMPG: an integrative database for traditional Chinese medicine plant genome https://doi.org/10.1093/hr/uhac060 http://cbcb.cdutcm.edu.cn/TCMPG/
 - Canavanine resistance mutation can1-1 in Schizosaccharomyces pombe is a missense mutation in the ubiquitin ligase adaptor gene any1 https://dx.doi.org/10.17912%2Fmicropub.biology.000538 https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8922049_25789430-2022-micropub.biology.000538.jpg
+- New insights into the genetic etiology of Alzheimer’s disease and related dementias https://doi.org/10.1038/s41588-022-01024-z https://www.nature.com/articles/s41588-022-01024-z/figures/4
+- De novo sequencing, diploid assembly, and annotation of the black carpenter ant, Camponotus pennsylvanicus, and its symbionts by one person for $1000, using nanopore sequencing https://doi.org/10.1101/2022.03.31.486652 
