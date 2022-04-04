@@ -3,7 +3,7 @@
     {
       "url": "https://zhailab-sustech.github.io/jbrowse2/",
       "pub": {
-        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02543-4",
+        "url": "https://doi.org/10.1186/s13059-021-02543-4",
         "title": "Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing"
       }
     },
@@ -17,16 +17,16 @@
     {
       "url": "http://portugalfishomics.ciimar.up.pt/app/scombercolias/",
       "pub": {
-        "url": "https://www.biorxiv.org/content/10.1101/2021.11.19.468211v1",
+        "doi": "https://doi.org/10.1101/2022.01.10.475740",
         "title": "A genome assembly of the Atlantic chub mackerel (Scomber colias): a valuable teleost fishing resource"
       }
     },
     {
       "pub": {
         "title": "Transposons Hidden in Arabidopsis thaliana Genome Assembly Gaps and Mobilization of Non-Autonomous LTR Retrotransposons Unravelled by Nanotei Pipeline",
-        "url": "https://www.mdpi.com/2223-7747/10/12/2681/htm"
+        "doi": "https://doi.org/10.3390/plants10122681"
       },
-      "note": "See fig 3"
+      "note": "See fig 3, not cited but is an SVG export"
     },
     {
       "pub": {
