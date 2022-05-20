@@ -2,67 +2,90 @@
   "links": [
     {
       "url": "https://zhailab-sustech.github.io/jbrowse2/",
+      "img": "10.png",
+      "name": "Arabidopsis browser",
       "pub": {
-        "url": "https://doi.org/10.1186/s13059-021-02543-4",
+        "doi": "https://doi.org/10.1186/s13059-021-02543-4",
         "title": "Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing"
       }
     },
     {
+      "name": "Japanese rhinoceros beetle browser",
       "pub": {
         "title": "The draft genome sequence of Japanese rhinoceros beetle Trypoxylus dichotomus",
-        "url": "https://www.biorxiv.org/content/10.1101/2022.01.10.475740v1.full.pdf"
+        "doi": "https://doi.org/10.1101/2022.01.10.475740"
       },
-      "url": "http://www.insect.nibb.info/trydi/jb/"
+      "url": "http://www.insect.nibb.info/trydi/jb/",
+      "img": "8.png"
     },
     {
+      "name": "Atlantic chub mackeral browser",
       "url": "http://portugalfishomics.ciimar.up.pt/app/scombercolias/",
+      "img": "9.png",
       "pub": {
         "doi": "https://doi.org/10.1101/2022.01.10.475740",
         "title": "A genome assembly of the Atlantic chub mackerel (Scomber colias): a valuable teleost fishing resource"
       }
     },
     {
+      "name": "Arabidopsis transposon SVG export",
       "pub": {
         "title": "Transposons Hidden in Arabidopsis thaliana Genome Assembly Gaps and Mobilization of Non-Autonomous LTR Retrotransposons Unravelled by Nanotei Pipeline",
         "doi": "https://doi.org/10.3390/plants10122681"
       },
-      "note": "See fig 3, not cited but is an SVG export"
+      "img": "6.png"
     },
     {
+      "name": "SRA viral discovery at Serratus",
       "pub": {
         "title": "Petabase-scale sequence alignment catalyses viral discovery",
         "doi": "https://doi.org/10.1038/s41586-021-04332-2"
       },
-      "url": "https://www.serratus.io/jbrowse?bam=ERR2756788"
+      "url": "https://www.serratus.io/jbrowse?bam=ERR2756788",
+      "img": "7.png"
     },
     {
+      "name": "Traditional Chinese medicinal plant genome database",
       "pub": {
         "title": "TCMPG: an integrative database for traditional Chinese medicine plant genome",
         "doi": "https://doi.org/10.1093/hr/uhac060"
       },
-      "url": "http://cbcb.cdutcm.edu.cn/TCMPG/"
+      "url": "http://cbcb.cdutcm.edu.cn/TCMPG/",
+      "img": "5.png"
     },
     {
+      "name": "S. pombe screenshot",
       "pub": {
         "title": "Canavanine resistance mutation can1-1 in Schizosaccharomyces pombe is a missense mutation in the ubiquitin ligase adaptor gene any1",
         "doi": "https://dx.doi.org/10.17912%2Fmicropub.biology.000538"
       },
-      "url": "https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8922049_25789430-2022-micropub.biology.000538.jpg"
+      "url": "https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8922049_25789430-2022-micropub.biology.000538.jpg",
+      "img": "4.png"
     },
+
     {
-      "pub": {
-        "title": "New insights into the genetic etiology of Alzheimer’s disease and related dementias",
-        "doi": "https://doi.org/10.1038/s41588-022-01024-z"
-      },
-      "url": "https://www.nature.com/articles/s41588-022-01024-z/figures/4",
-      "note": "No citation. Looks similar to an SVG export though"
-    },
-    {
+      "name": "Black carpenter ant genome assembly with JBrowse 2 screenshots",
       "pub": {
         "title": "De novo sequencing, diploid assembly, and annotation of the black carpenter ant, Camponotus pennsylvanicus, and its symbionts by one person for $1000, using nanopore sequencing",
-        "doi": "https://doi.org/10.1101/2022.03.31.486652"
+        "doi": "https://doi.org/10.1093/nar/gkac510"
       },
-      "note": "No citation, but looks like sorting+color by on HP tag!"
+      "img": "3.png"
+    },
+    {
+      "name": "Methylation profiling in JBrowse 2 with screenshot",
+      "pub": {
+        "doi": "https://doi.org/10.3390/plants11010005",
+        "title": "Searching for a Needle in a Haystack: Cas9-Targeted Nanopore Sequencing and DNA Methylation Profiling of Full-Length Glutenin Genes in a Big Cereal Genome"
+      },
+      "img": "2.png"
+    },
+    {
+      "name": "Diatom (epi-)genome browser at PhaeoEpiView",
+      "pub": {
+        "doi": "https://doi.org/10.1101/2022.07.29.502047",
+        "title": "PhaeoEpiView: An epigenome browser of the newly assembled genome of the model diatom Phaeodactylum tricornutum"
+      },
+      "img": "1.png"
     }
   ]
 }
