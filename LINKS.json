@@ -63,6 +63,12 @@
         "doi": "https://doi.org/10.1101/2022.03.31.486652"
       },
       "note": "No citation, but looks like sorting+color by on HP tag!"
+    },
+    {
+      "pub": {
+        "doi": "https://doi.org/10.3390/plants11010005",
+        "title": "Searching for a Needle in a Haystack: Cas9-Targeted Nanopore Sequencing and DNA Methylation Profiling of Full-Length Glutenin Genes in a Big Cereal Genome"
+      }
     }
   ]
 }
