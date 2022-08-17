@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import SanitizedHTML from "../SanitizedHTML";
 import links from "./LINKS.json";
 import slugify from "slugify";
 import queryString from "query-string";
@@ -74,7 +75,7 @@ const Card = ({
                     : "https://dx.doi.org/" + pub.doi
                 }
               >
-                {pub.title}
+                <SanitizedHTML html={pub.title} />
               </a>
             ) : null}{" "}
             {pub.year ? ` (${pub.year})` : null}

@@ -18,6 +18,8 @@
     "postdeploy": "git push"
   },
   "dependencies": {
+    "dompurify": "^2.3.10",
+    "escape-html": "^1.0.3",
     "gatsby": "^4.18.2",
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",

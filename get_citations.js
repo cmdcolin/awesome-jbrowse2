@@ -16,7 +16,8 @@ const data = JSON.parse(fs.readFileSync("LINKS.json", "utf8"));
         if (
           doi.includes("zenodo") ||
           doi.includes("figshare") ||
-          doi.includes("10.13140/RG.2.2.15289.39522")
+          doi.includes("10.13140/RG.2.2.15289.39522") ||
+          doi.includes("micropub")
         ) {
           i++;
           continue;
