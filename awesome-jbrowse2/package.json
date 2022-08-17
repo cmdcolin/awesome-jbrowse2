@@ -18,12 +18,12 @@
     "postdeploy": "git push"
   },
   "dependencies": {
-    "dompurify": "^2.3.10",
     "escape-html": "^1.0.3",
     "gatsby": "^4.18.2",
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "sanitize-html": "^2.7.1",
     "slugify": "^1.6.4",
     "use-query-params": "^1.2.2"
   }

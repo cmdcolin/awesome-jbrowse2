@@ -1,6 +1,6 @@
 import React from "react";
 import escapeHTML from "escape-html";
-import dompurify from "dompurify";
+import * as sanitizeHtml from "sanitize-html";
 
 // source https://github.com/sindresorhus/html-tags/blob/master/html-tags.json
 // with some random uncommon ones removed. note: we just use this to run the content
@@ -56,7 +56,7 @@ export default function SanitizedHTML({ html }: { html: string }) {
     <div
       // eslint-disable-next-line react/no-danger
       dangerouslySetInnerHTML={{
-        __html: dompurify.sanitize(value),
+        __html: sanitizeHtml(value),
       }}
     />
   );
