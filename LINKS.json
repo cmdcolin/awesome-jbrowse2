@@ -123,6 +123,16 @@
       "img": "1.png",
       "width": 846,
       "height": 720
+    },
+    {
+      "pub": {
+        "doi": "https://doi.org/10.12688/f1000research.123591.1",
+        "year": 2022,
+        "title": "Squalomix: shark and ray genome analysis consortium and its data sharing platform",
+        "citations": 0
+      },
+      "img": "11.png",
+      "name": "Squalomix - shark and ray comparative genomics"
     }
   ]
 }
