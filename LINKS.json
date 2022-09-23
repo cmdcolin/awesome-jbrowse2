@@ -132,7 +132,21 @@
         "citations": 0
       },
       "img": "11.png",
-      "name": "Squalomix - shark and ray comparative genomics"
+      "name": "Squalomix - shark and ray comparative genomics",
+      "width": 1855,
+      "height": 1376
+    },
+    {
+      "pub": {
+        "doi": "https://doi.org/10.1101/2022.09.21.508858",
+        "year": 2022,
+        "title": "FishSCT: a zebrafish-centric database for exploration and visualization of fish single-cell transcriptome",
+        "citations": 0
+      },
+      "name": "FishSCT: zebrafish centric single-cell transcriptome database",
+      "img": "12.png",
+      "width": 877,
+      "height": 797
     }
   ]
 }
