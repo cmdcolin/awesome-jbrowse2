@@ -147,6 +147,18 @@
       "img": "12.png",
       "width": 877,
       "height": 797
+    },
+    {
+      "pub": {
+        "doi": "https://doi.org/10.1093/nar/gkac936",
+        "year": 2022,
+        "title": "IAnimal: a cross-species omics knowledgebase for animals",
+        "citations": 0
+      },
+      "name": "IAnimal: a cross-species omics knowledgebase for animals",
+      "img": "13.png",
+      "width": 842,
+      "height": 534
     }
   ]
 }
