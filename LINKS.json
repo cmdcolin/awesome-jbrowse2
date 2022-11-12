@@ -159,6 +159,18 @@
       "img": "13.png",
       "width": 842,
       "height": 534
+    },
+    {
+      "pub": {
+        "doi": "https://doi.org/10.1093/nar/gkac1017",
+        "year": 2022,
+        "title": "GWAS Central: an expanding resource for finding and visualising genotype and phenotype data from genome-wide association studies",
+        "citations": 0
+      },
+      "name": "GWAS Central",
+      "img": "14.png",
+      "width": 1726,
+      "height": 939
     }
   ]
 }
