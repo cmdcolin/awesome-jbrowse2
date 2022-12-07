@@ -3,7 +3,7 @@ const data = JSON.parse(fs.readFileSync("LINKS.json", "utf8"));
 console.log("# awesome-jbrowse2");
 
 console.log(
-  "awesome jbrowse 2 citations, screenshots or instances around the web"
+  "awesome jbrowse 2 citations, screenshots or instances around the web. visit website here https://cmdcolin.github.io/awesome-jbrowse2\n\n## Publications/instances"
 );
 
 console.log("instance/url|note|img");
