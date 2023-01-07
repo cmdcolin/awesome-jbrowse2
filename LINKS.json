@@ -48,8 +48,8 @@
         "citations": 3
       },
       "img": "6.png",
-      "width": 2920,
-      "height": 2716
+      "width": 1460,
+      "height": 1358
     },
     {
       "name": "Serratus - Petabase scale viral discovery",
@@ -109,8 +109,8 @@
         "citations": 2
       },
       "img": "2.png",
-      "width": 1595,
-      "height": 2272
+      "width": 798,
+      "height": 1136
     },
     {
       "name": "PhaeoEpiView - Diatom epigenome browser",
@@ -169,8 +169,20 @@
       },
       "name": "GWAS Central",
       "img": "14.png",
-      "width": 1726,
-      "height": 939
+      "width": 1117,
+      "height": 704
+    },
+    {
+      "pub": {
+        "doi": "https://doi.org/10.1093/bioinformatics/btac772",
+        "year": 2022,
+        "title": "Treenome Browser: co-visualization of enormous phylogenies and millions of genomes",
+        "citations": 0
+      },
+      "name": "The Treenome Browser",
+      "img": "15.jpeg",
+      "width": 1810,
+      "height": 777
     }
   ]
 }
