@@ -1,5 +1,4 @@
 import fs from "fs";
-import fetch from "node-fetch";
 
 import { setTimeout } from "timers/promises";
 
@@ -32,7 +31,7 @@ const data = JSON.parse(fs.readFileSync("LINKS.json", "utf8"));
           "curr waittime",
           timeout,
           "doi",
-          doi
+          doi,
         );
         const url = doi.startsWith("http") ? doi : "https://doi.org/" + doi;
         const response = await fetch(url, {
@@ -40,7 +39,7 @@ const data = JSON.parse(fs.readFileSync("LINKS.json", "utf8"));
         });
         if (!response.ok) {
           throw new Error(
-            `failed ${response.statusText} ${await response.text()}`
+            `failed ${response.statusText} ${await response.text()}`,
           );
         }
         const json = await response.json();
