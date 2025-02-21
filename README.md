@@ -19,3 +19,4 @@ FishSCT: a zebrafish-centric database for exploration and visualization of fish 
 IAnimal: a cross-species omics knowledgebase for animals ([pub](https://doi.org/10.1093/nar/gkac936))  |  | [img](img/13.png)
 GWAS Central: an expanding resource for finding and visualising genotype and phenotype data from genome-wide association studies ([pub](https://doi.org/10.1093/nar/gkac1017))  |  | [img](img/14.png)
 Treenome Browser: co-visualization of enormous phylogenies and millions of genomes ([pub](https://doi.org/10.1093/bioinformatics/btac772))  |  | [img](img/15.jpeg)
+Swedish Reference Genome Portal - A service facilitating access and discovery of genome data of non-model eukaryotic species studied in Sweden ([pub](https://doi.org/10.5281/zenodo.14049736)) ([url](https://genomes.scilifelab.se/)) |  | [img](img/16.png)

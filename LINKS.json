@@ -185,6 +185,18 @@
       "img": "15.jpeg",
       "width": 1810,
       "height": 777
+    },
+    {
+      "pub": {
+        "doi": "https://doi.org/10.5281/zenodo.14049736",
+        "year": 2024,
+        "title": "Swedish Reference Genome Portal - A service facilitating access and discovery of genome data of non-model eukaryotic species studied in Sweden"
+      },
+      "name": "Swedish Reference Genome Portal",
+      "url": "https://genomes.scilifelab.se/",
+      "img": "16.png",
+      "width": 1481,
+      "height": 1676
     }
   ]
 }
