@@ -8,7 +8,7 @@
         "doi": "https://doi.org/10.1186/s13059-021-02543-4",
         "title": "Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing",
         "year": 2021,
-        "citations": 15
+        "citations": 26
       },
       "width": 1385,
       "height": 618
@@ -19,7 +19,7 @@
         "title": "The draft genome sequence of Japanese rhinoceros beetle <i>Trypoxylus dichotomus</i>",
         "doi": "https://doi.org/10.1101/2022.01.10.475740",
         "year": 2022,
-        "citations": 1
+        "citations": 3
       },
       "url": "http://www.insect.nibb.info/trydi/jb/",
       "img": "8.png",
@@ -34,7 +34,7 @@
         "doi": "https://doi.org/10.46471/gigabyte.40",
         "title": "A genome assembly of the Atlantic chub mackerel (Scomber colias): a valuable teleost fishing resource",
         "year": 2022,
-        "citations": 3
+        "citations": 8
       },
       "width": 1369,
       "height": 677
@@ -45,7 +45,7 @@
         "title": "Transposons Hidden in Arabidopsis thaliana Genome Assembly Gaps and Mobilization of Non-Autonomous LTR Retrotransposons Unravelled by Nanotei Pipeline",
         "doi": "https://doi.org/10.3390/plants10122681",
         "year": 2021,
-        "citations": 9
+        "citations": 12
       },
       "img": "6.png",
       "width": 1460,
@@ -57,7 +57,7 @@
         "title": "Petabase-scale sequence alignment catalyses viral discovery",
         "doi": "https://doi.org/10.1038/s41586-021-04332-2",
         "year": 2022,
-        "citations": 230
+        "citations": 379
       },
       "url": "https://www.serratus.io/jbrowse?bam=ERR2756788",
       "img": "7.png",
@@ -70,7 +70,7 @@
         "title": "TCMPG: an integrative database for traditional Chinese medicine plant genomes",
         "doi": "https://doi.org/10.1093/hr/uhac060",
         "year": 2022,
-        "citations": 17
+        "citations": 28
       },
       "url": "http://cbcb.cdutcm.edu.cn/TCMPG/",
       "img": "5.png",
@@ -81,7 +81,9 @@
       "name": "S. pombe to cavanine (PomBase)",
       "pub": {
         "title": "Canavanine resistance mutation can1-1 in Schizosaccharomyces pombe is a missense mutation in the ubiquitin ligase adaptor gene any1",
-        "doi": "https://dx.doi.org/10.17912/micropub.biology.000538"
+        "doi": "https://dx.doi.org/10.17912/micropub.biology.000538",
+        "year": 2022,
+        "citations": 4
       },
       "url": "https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8922049_25789430-2022-micropub.biology.000538.jpg",
       "img": "4.png",
@@ -94,7 +96,7 @@
         "title": "<i>De novo</i>sequencing, diploid assembly, and annotation of the black carpenter ant,<i>Camponotus pennsylvanicus</i>, and its symbionts by one person for $1000, using nanopore sequencing",
         "doi": "https://doi.org/10.1093/nar/gkac510",
         "year": 2022,
-        "citations": 17
+        "citations": 20
       },
       "img": "3.png",
       "width": 520,
@@ -106,7 +108,7 @@
         "doi": "https://doi.org/10.3390/plants11010005",
         "title": "Searching for a Needle in a Haystack: Cas9-Targeted Nanopore Sequencing and DNA Methylation Profiling of Full-Length Glutenin Genes in a Big Cereal Genome",
         "year": 2021,
-        "citations": 8
+        "citations": 11
       },
       "img": "2.png",
       "width": 798,
@@ -118,7 +120,7 @@
         "doi": "https://doi.org/10.1101/2022.07.29.502047",
         "title": "PhaeoEpiView: An epigenome browser of the newly assembled genome of the model diatom <i>Phaeodactylum tricornutum</i>",
         "year": 2022,
-        "citations": 1
+        "citations": 8
       },
       "img": "1.png",
       "width": 846,
@@ -129,7 +131,7 @@
         "doi": "https://doi.org/10.12688/f1000research.123591.1",
         "year": 2022,
         "title": "Squalomix: shark and ray genome analysis consortium and its data sharing platform",
-        "citations": 13
+        "citations": 19
       },
       "img": "11.png",
       "name": "Squalomix - shark and ray comparative genomics",
@@ -141,7 +143,7 @@
         "doi": "https://doi.org/10.1101/2022.09.21.508858",
         "year": 2022,
         "title": "FishSCT: a zebrafish-centric database for exploration and visualization of fish single-cell transcriptome",
-        "citations": 0
+        "citations": 5
       },
       "name": "FishSCT: zebrafish centric single-cell transcriptome database",
       "img": "12.png",
@@ -153,7 +155,7 @@
         "doi": "https://doi.org/10.1093/nar/gkac936",
         "year": 2022,
         "title": "IAnimal: a cross-species omics knowledgebase for animals",
-        "citations": 7
+        "citations": 25
       },
       "name": "IAnimal: a cross-species omics knowledgebase for animals",
       "img": "13.png",
@@ -165,7 +167,7 @@
         "doi": "https://doi.org/10.1093/nar/gkac1017",
         "year": 2022,
         "title": "GWAS Central: an expanding resource for finding and visualising genotype and phenotype data from genome-wide association studies",
-        "citations": 15
+        "citations": 28
       },
       "name": "GWAS Central",
       "img": "14.png",
@@ -177,7 +179,7 @@
         "doi": "https://doi.org/10.1093/bioinformatics/btac772",
         "year": 2022,
         "title": "Treenome Browser: co-visualization of enormous phylogenies and millions of genomes",
-        "citations": 5
+        "citations": 8
       },
       "name": "The Treenome Browser",
       "img": "15.jpeg",
