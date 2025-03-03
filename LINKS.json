@@ -4,6 +4,7 @@
       "url": "https://zhailab-sustech.github.io/jbrowse2/",
       "img": "10.png",
       "name": "Arabidopsis browser with nascent RNA sequencing data",
+      "tags": ["Plant"],
       "pub": {
         "doi": "https://doi.org/10.1186/s13059-021-02543-4",
         "title": "Landscape of transcription termination in Arabidopsis revealed by single-molecule nascent RNA sequencing",
@@ -15,6 +16,7 @@
     },
     {
       "name": "Japanese rhinoceros beetle browser",
+      "tags": ["Arthropod"],
       "pub": {
         "title": "The draft genome sequence of Japanese rhinoceros beetle <i>Trypoxylus dichotomus</i>",
         "doi": "https://doi.org/10.1101/2022.01.10.475740",
@@ -29,6 +31,7 @@
     {
       "name": "Atlantic chub mackerel browser",
       "url": "http://portugalfishomics.ciimar.up.pt/app/scombercolias/",
+      "tags": ["Vertebrate", "Fish"],
       "img": "9.png",
       "pub": {
         "doi": "https://doi.org/10.46471/gigabyte.40",
@@ -41,6 +44,7 @@
     },
     {
       "name": "Arabidopsis transposon discovery with Nanotei pipeline",
+      "tags": ["Plant"],
       "pub": {
         "title": "Transposons Hidden in Arabidopsis thaliana Genome Assembly Gaps and Mobilization of Non-Autonomous LTR Retrotransposons Unravelled by Nanotei Pipeline",
         "doi": "https://doi.org/10.3390/plants10122681",
@@ -53,6 +57,7 @@
     },
     {
       "name": "Serratus - Petabase scale viral discovery",
+      "tags": ["Virus"],
       "pub": {
         "title": "Petabase-scale sequence alignment catalyses viral discovery",
         "doi": "https://doi.org/10.1038/s41586-021-04332-2",
@@ -66,6 +71,7 @@
     },
     {
       "name": "TCMPG - Traditional Chinese medicinal plant genome database",
+      "tags": ["Plant"],
       "pub": {
         "title": "TCMPG: an integrative database for traditional Chinese medicine plant genomes",
         "doi": "https://doi.org/10.1093/hr/uhac060",
@@ -79,6 +85,7 @@
     },
     {
       "name": "S. pombe to cavanine (PomBase)",
+      "tags": ["Fungi"],
       "pub": {
         "title": "Canavanine resistance mutation can1-1 in Schizosaccharomyces pombe is a missense mutation in the ubiquitin ligase adaptor gene any1",
         "doi": "https://dx.doi.org/10.17912/micropub.biology.000538",
@@ -92,6 +99,7 @@
     },
     {
       "name": "Black carpenter ant genome assembly",
+      "tags": ["Arthropod"],
       "pub": {
         "title": "<i>De novo</i>sequencing, diploid assembly, and annotation of the black carpenter ant,<i>Camponotus pennsylvanicus</i>, and its symbionts by one person for $1000, using nanopore sequencing",
         "doi": "https://doi.org/10.1093/nar/gkac510",
@@ -104,6 +112,7 @@
     },
     {
       "name": "Methylation profiling in cereal crops",
+      "tags": ["Plant", "Methylation"],
       "pub": {
         "doi": "https://doi.org/10.3390/plants11010005",
         "title": "Searching for a Needle in a Haystack: Cas9-Targeted Nanopore Sequencing and DNA Methylation Profiling of Full-Length Glutenin Genes in a Big Cereal Genome",
@@ -116,6 +125,7 @@
     },
     {
       "name": "PhaeoEpiView - Diatom epigenome browser",
+      "tags": ["Algae", "Methylation"],
       "pub": {
         "doi": "https://doi.org/10.1101/2022.07.29.502047",
         "title": "PhaeoEpiView: An epigenome browser of the newly assembled genome of the model diatom <i>Phaeodactylum tricornutum</i>",
@@ -134,6 +144,7 @@
         "citations": 19
       },
       "img": "11.png",
+      "tags": ["Vertebrate", "Fish"],
       "name": "Squalomix - shark and ray comparative genomics",
       "width": 1855,
       "height": 1376
@@ -145,6 +156,7 @@
         "title": "FishSCT: a zebrafish-centric database for exploration and visualization of fish single-cell transcriptome",
         "citations": 5
       },
+      "tags": ["Vertebrate", "Fish"],
       "name": "FishSCT: zebrafish centric single-cell transcriptome database",
       "img": "12.png",
       "width": 877,
@@ -157,6 +169,7 @@
         "title": "IAnimal: a cross-species omics knowledgebase for animals",
         "citations": 25
       },
+      "tags": ["Vertebrate", "Agricultural"],
       "name": "IAnimal: a cross-species omics knowledgebase for animals",
       "img": "13.png",
       "width": 842,
@@ -169,6 +182,7 @@
         "title": "GWAS Central: an expanding resource for finding and visualising genotype and phenotype data from genome-wide association studies",
         "citations": 28
       },
+      "tags": ["GWAS", "Human"],
       "name": "GWAS Central",
       "img": "14.png",
       "width": 1117,
@@ -181,6 +195,7 @@
         "title": "Treenome Browser: co-visualization of enormous phylogenies and millions of genomes",
         "citations": 8
       },
+      "tags": ["Virus"],
       "name": "The Treenome Browser",
       "img": "15.jpeg",
       "width": 1810,
@@ -192,6 +207,7 @@
         "year": 2024,
         "title": "Swedish Reference Genome Portal - A service facilitating access and discovery of genome data of non-model eukaryotic species studied in Sweden"
       },
+      "tags": ["Eukaryotic", "Multi-species"],
       "name": "Swedish Reference Genome Portal",
       "url": "https://genomes.scilifelab.se/",
       "img": "16.png",
