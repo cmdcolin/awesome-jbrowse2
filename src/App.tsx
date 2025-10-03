@@ -132,10 +132,6 @@ const IndexPage = () => {
         This is a companion website for the github repo{' '}
         <Link href={githubURL}>{githubURL}</Link>
       </p>
-      <p>
-        Also check out our twitter account{' '}
-        <Link href="https://twitter.com/awesomejbrowse2">@awesomejbrowse2</Link>
-      </p>
       <div style={{ maxWidth: 500 }}>
         <p>Feel free to submit PRs to add more jbrowse 2 stuff!</p>
       </div>
