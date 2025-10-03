@@ -213,6 +213,20 @@
       "img": "16.png",
       "width": 1481,
       "height": 1676
+    },
+    {
+      "url": "https://ccb.jhu.edu/HIV_Atlas/",
+      "img": "17.png",
+      "name": "HIV Atlas",
+      "tags": ["Virus"],
+      "pub": {
+        "doi": "https://doi.org/10.1101/2025.09.24.675449",
+        "title": "Comprehensive annotation of thousands of HIV genomes",
+        "year": 2025,
+        "citations": 0
+      },
+      "width": 1320,
+      "height": 890
     }
   ]
 }
